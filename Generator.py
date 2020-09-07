@@ -7,4 +7,4 @@ audio = AudioCaptcha()
 
 
 data = image.generate("abcd")
-image.write('absfacd','1.png')
+image.write('abcd','1.png')

@@ -1,5 +1,4 @@
 from captcha.image import ImageCaptcha
-from captcha.audio import AudioCaptcha
 
 image = ImageCaptcha()
 audio = AudioCaptcha()
